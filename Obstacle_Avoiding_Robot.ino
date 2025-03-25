@@ -1,3 +1,6 @@
+//if u need any help reach me insta @xaidu_uu
+// youtube  https://www.youtube.com/@techzaiduu
+
 #include "AFMotor.h"
 #include <Servo.h>
 
